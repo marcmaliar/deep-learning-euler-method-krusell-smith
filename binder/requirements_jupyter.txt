@@ -108,7 +108,6 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 tensorflow==2.13.0rc1
 tensorflow-estimator==2.13.0rc0
-tensorflow-macos==2.13.0rc1
 termcolor==2.3.0
 terminado==0.17.1
 tinycss2==1.2.1
