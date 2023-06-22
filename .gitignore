@@ -431,5 +431,6 @@ venv
 .vscode
 code/python/Main_KS.py
 figures/*
+!figures/exampleFigure.png
 !figures/.gitkeep
 *.DS_Store
