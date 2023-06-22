@@ -432,4 +432,4 @@ venv
 code/python/Main_KS.py
 figures/*
 !figures/.gitkeep
-
+*.DS_Store
