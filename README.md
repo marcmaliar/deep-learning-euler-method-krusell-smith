@@ -12,7 +12,7 @@ Click this -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
 
 To run it locally, you can
 
-- run reproduce.sh, which runs the code and saves the figure in the figures directory or
 - run reproduce_jupyter.sh, which opens the code in a Jupyter notebook.
+- (reproduce.sh is deprecated and does the same thing as reproduce_jupyter.sh)
 
 Results figure is saved to the figures directory.
